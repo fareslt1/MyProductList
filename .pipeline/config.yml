@@ -20,7 +20,7 @@ stages:
     tmsUpload: false
     cfApiEndpoint: "https://api.cf.us10-001.hana.ondemand.com"
     cfOrg: "49ebaa58trial_dev-sys-wo7aphwr"
-    cfSpace: "dev"
+    cfSpace: "DEV"
     deployType: "standard"
     cloudFoundryDeploy: true
     cfCredentialsId: "cf-dev-subaccount"
