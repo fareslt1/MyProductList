@@ -23,7 +23,6 @@ stages:
     cfSpace: "DEV"
     deployType: "standard"
     cloudFoundryDeploy: true
-    cfCredentialsId: "cf-dev-subaccount"
   Additional Unit Tests:
     npmExecuteScripts: false
   Compliance:
