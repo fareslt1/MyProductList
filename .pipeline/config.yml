@@ -18,7 +18,7 @@ stages:
     cfApiEndpoint: "https://api.cf.us10-001.hana.ondemand.com"
     cfOrg: "49ebaa58trial_dev-sys-wo7aphwr"
     cfSpace: "DEV"
-    cfCredentialsId: "dcf-dev-subaccount"
+    cfCredentialsId: "cf-dev-subaccount"
     tmsUpload: false
 steps:
 
