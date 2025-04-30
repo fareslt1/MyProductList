@@ -24,7 +24,7 @@
         }
       },
       "mainService": {
-        "uri": "/v2/northwind/northwind.svc/",
+        "uri": "/v2/Northwind/Northwind.svc/",
         "type": "OData",
         "settings": {
           "annotations": [
