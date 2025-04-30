@@ -24,7 +24,7 @@
         }
       },
       "mainService": {
-        "uri": "/v2/Northwind/Northwind.svc/",
+        "uri": "/v2/northwind/northwind.svc/",
         "type": "OData",
         "settings": {
           "annotations": [
@@ -108,8 +108,7 @@
     "_version": "1.3.0",
     "settings": {
       "forceGlobalRefresh": false,
-      "objectPageHeaderType": "Dynamic",
-      "considerAnalyticalParameters": true,
+      "considerAnalyticalParameters": false,
       "showDraftToggle": false
     },
     "pages": {
