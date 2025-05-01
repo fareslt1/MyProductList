@@ -107,8 +107,9 @@
   "sap.ui.generic.app": {
     "_version": "1.3.0",
     "settings": {
-      "forceGlobalRefresh": false,
-      "considerAnalyticalParameters": false,
+      "forceGlobalRefresh": true,
+      "objectPageHeaderType": "Dynamic",
+      "considerAnalyticalParameters": true,
       "showDraftToggle": false
     },
     "pages": {
