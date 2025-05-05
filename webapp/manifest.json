@@ -40,7 +40,7 @@
         "ztravel_app_xxx-maintain": {
           "semanticObject": "app_test",
           "action": "maintain",
-          "title": "{{{{appTitle}}}}",
+          "title": "{{appDesc}}",
           "signature": {
             "parameters": {},
             "additionalParameters": "allowed"
