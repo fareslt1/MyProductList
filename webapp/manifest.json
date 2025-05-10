@@ -133,7 +133,6 @@
           "list": true,
           "settings": {
             "smartVariantManagement": true,
-            "isWorklist": true,
             "filterSettings": {
               "dateSettings": {
                 "useDateRange": true
@@ -142,10 +141,10 @@
             "tableSettings": {
               "multiSelect": true,
               "type": "ResponsiveTable"
-            }
+            },
+            "enableTableFilterInPageVariant": true
           }
-        },
-        "pages": {}
+        }
       }
     }
   },
@@ -156,5 +155,8 @@
   "sap.cloud": {
     "public": true,
     "service": "products"
+  },
+  "sap.platform.cf": {
+    "ui5VersionNumber": "1.130.10"
   }
 }
